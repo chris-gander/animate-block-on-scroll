@@ -7,7 +7,7 @@
  * Requires PHP:      7.0
  * Author:            Chris Gander
  * Text Domain:       animate-block-on-scroll
- * Licence:           MIT Licence
+ * Licence:           MIT License
  *
  * @package           create-block
  */

@@ -3,6 +3,7 @@ Contributors:      Chris Gander
 Tags:              block animate
 Tested up to:      6.1
 Stable tag:        1.0.0
+Licence:           MIT Licence
 
 A Gutenberg plugin that allows you to animate any block on scroll using AOS
 

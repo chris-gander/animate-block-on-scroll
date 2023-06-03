@@ -22,7 +22,7 @@ jobs:
           name: animate-block-on-scroll
           path: |
             animate-block-on-scroll.php
-            LICENCE
+            LICENSE
             readme.txt
             build
             assets
